@@ -1,6 +1,6 @@
 # CSC1002 - Programming Projects
 
-This repository contains three fun and interactive Python-based game projects: **Sliding Puzzle (Huarong Dao)**, **Connect Four**, and **Snake Game**. Each project is designed to help you practice and improve your Python programming skills while having fun!
+This repository contains three fun and interactive Python-based game projects: **Sliding Puzzle (Huarong Dao)**, **Connect Four**, and **Snake Game**.
 
 ---
 
@@ -10,7 +10,7 @@ The repository includes three projects, each focusing on a different game:
 
 1. **Sliding Puzzle (Huarong Dao)**: A classic sliding puzzle game where the goal is to rearrange tiles in the correct order.
 2. **Connect Four**: A two-player strategy game where players take turns dropping colored discs into a grid, aiming to connect four of their discs horizontally, vertically, or diagonally.
-3. **Snake Game**: A retro-style game where the player controls a snake that grows longer as it eats food, while avoiding collisions with walls and itself.
+3. **Snake Game**: A game where the player controls a snake that grows longer as it eats food, while avoiding collisions with the ghost.
 
 ---
 
